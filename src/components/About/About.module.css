@@ -59,6 +59,7 @@
 }
 .aboutItem img{
   margin: 12px 20px;
+  height:30px;
 }
 
 .aboutItem:hover {

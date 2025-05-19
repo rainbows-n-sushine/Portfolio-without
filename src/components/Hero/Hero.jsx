@@ -28,9 +28,6 @@ export const Hero = () => {
   I've built everything from custom systems to feature-rich applications, both from scratch and on top of existing codebases. 
   I'm always excited to collaborate, solve real problems, and bring new ideas to life.
 </p>
-        <a href="mailto:jayaddisu@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
       </div>
 
    
